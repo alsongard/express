@@ -1,0 +1,21 @@
+Node module system
+os
+fs
+events
+http
+
+# Global objects
+console.log();
+setTimeout();
+clearTimeout();
+setInterval();
+clearInterval();
+
+console.log(module)
+module.exports.log = log//functionName;
+module.export.endPoint = url;
+
+require("./logger.js  )
+
+require("path")//takes as a built in function/module and then checks for any other file
+require("./file-path")
